@@ -1,0 +1,24 @@
+.img {
+    height: 250px;
+}
+
+.img:hover {
+    border: 5px solid white;
+    cursor: pointer;
+}
+
+.custom-height {
+    height: 500px;
+}
+
+.p1 {
+    font-size: medium;
+}
+
+.p2 {
+    font-size: small;
+}
+
+.p3 {
+    font-size: smaller;
+}
